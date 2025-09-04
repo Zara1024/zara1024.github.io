@@ -1,6 +1,8 @@
 {
-"title": "运维探索者",
-"subTitle": "分享运维实践、系统架构与云原生技术的探索之路",
-"avatarUrl": "https://avatars.githubusercontent.com/u/101550744?s=400&u=724e0ca20ce3401ba1286497d502b8fb30d587d1&v=4",
-"GMEEK_VERSION": "last"
+    "title": "运维探索者",
+    "subTitle": "分享运维实践、系统架构与云原生技术的探索之路",
+    "avatarUrl": "https://avatars.githubusercontent.com/u/101550744?s=400&u=724e0ca20ce3401ba1286497d502b8fb30d587d1&v=4",
+    "GMEEK_VERSION": "last",
+    "allHead": "<script src='https://blog.meekdai.com/Gmeek/plugins/GmeekBSZ.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/GmeekVercount.js'></script>",
+    "script": "<script src='https://blog.meekdai.com/Gmeek/plugins/articletoc.js'></script><script src='https://blog.meekdai.com/Gmeek/plugins/lightbox.js'></script>"
 }
